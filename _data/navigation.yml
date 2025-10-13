@@ -9,25 +9,25 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://kf600.github.io/publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: https://kf600.github.io/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://kf600.github.io/teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: https://kf600.github.io/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://kf600.github.io/year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://kf600.github.io/cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
