@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "img.jpg"
   name             : "Kai Feng"
-  pronouns         : # example: "he/his"  
+  pronouns         : "he/his"  
   bio              : "PhD Student in Mechanical and Aerospace Engineering"
   location         : "Piscataway"
   employer         : "Rutgers University"
