@@ -24,7 +24,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "img.jpg"
-  name             : "Kai Feng"
+  name             : "Kai Feng (冯凯)"
   pronouns         : "he/his"  
   bio              : "PhD Student in Mechanical and Aerospace Engineering"
   location         : "Piscataway"
